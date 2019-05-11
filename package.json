@@ -1,0 +1,22 @@
+{
+  "name": "mst-firestore",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "mobx": "4.3.0",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "mobx-react": "5.1.2",
+    "firestorter": "0.10.0",
+    "mobx-state-tree": "2.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
